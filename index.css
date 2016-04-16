@@ -1,0 +1,35 @@
+﻿
+.wrap{
+	width:1100px;
+	margin:0 auto;
+}
+
+
+.banner-mat,.featured,.brands,.latest{
+	margin-top:40px ;
+}
+
+.banner{
+	overflow:hidden;
+	height:400px;
+}
+.banner img{
+	width:1100px;
+	height:400px;
+}
+.banner li{
+	text-align:center;
+}
+.banner-bottom{
+	height:70px;
+	width:1100px;
+	background:#92d3d0;
+	margin:0 auto;
+}
+
+.banner-line{
+	width:1100px;
+	height:7px;
+	background:#8dcac8;
+	margin:0 auto;
+}
